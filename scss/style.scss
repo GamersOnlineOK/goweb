@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-image: url(../img/hero-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    width: 100vw;
+    height: 100vh;
+    color: #FFFFFF;
+    position: absolute;
+    img{
+        width: 40vw;
+        margin-left: 4vw;
+    }
+    h2{
+        margin: 0 auto;
+        width: 80vw;
+        font-size: 2.5rem;
+        
+    }
+
+}
+
+nav{
+    position:relative;
+    margin-bottom: 0;
+}
