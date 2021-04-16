@@ -34,6 +34,13 @@ header{
     }
 
 }
+@media only screen and(max-width: 600px){
+    header{
+       background-image: url(../img/hero-bg2.jpg); 
+    }
+    
+    
+}
 
 #main{ 
     color: #000000;
