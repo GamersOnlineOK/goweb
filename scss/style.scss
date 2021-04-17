@@ -64,10 +64,11 @@ header{
         font-size: 1.3em;
         font-weight: 600;
     }
-    .hd{
+    
+}
+#hd{
         display: none;
     }
-}
 #quehacemos{ 
     margin: 0;
     background-color: #FBFCFC ;
@@ -117,14 +118,14 @@ header{
         .slogan{
             font-size: 5rem;
         }
+        
         .btn{
             
-            color: #000000;
+            color: #ffffff;
             font-size: 2rem;
             font-weight: 600;
-            background-color: rgba($color: #007c1b, $alpha: .8);
             border: solid 2px;
-            border-radius: 20px;
+            border-radius: 10px;
             z-index: 3;
         }
         .header-button{
@@ -152,4 +153,19 @@ header{
         min-height: 100vh;
         
     }
+    #main{
+        p{
+            margin: 0 auto;
+            width: 70%; 
+            font-size: 1.8em;
+            
+        }
+        
+    }
+    #hd{
+                display:inline-block;
+                
+                padding-bottom: 50px;
+                }
 }
+    
