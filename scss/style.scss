@@ -163,9 +163,30 @@ header{
         
     }
     #hd{
-                display:inline-block;
-                
-                padding-bottom: 50px;
+        display:inline-block;
+        
+        padding-bottom: 50px;
+        }
+    #clientes{
+        h2{
+           padding-top: 50px;
+        }
+        p{
+            margin: 30px;
+        }
+        .slide{
+                margin:auto;
                 }
+    }
+    #equipo{
+        height: 100vh;
+        h2{
+            padding-top: 50px;
+        }
+        p{
+            margin: 30px;
+        }
+    } 
 }
+    
     

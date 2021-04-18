@@ -169,5 +169,23 @@ header .btn {
     display: inline-block;
     padding-bottom: 50px;
   }
+  #clientes h2 {
+    padding-top: 50px;
+  }
+  #clientes p {
+    margin: 30px;
+  }
+  #clientes .slide {
+    margin: auto;
+  }
+  #equipo {
+    height: 100vh;
+  }
+  #equipo h2 {
+    padding-top: 50px;
+  }
+  #equipo p {
+    margin: 30px;
+  }
 }
 /*# sourceMappingURL=style.css.map */
