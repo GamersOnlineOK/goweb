@@ -1,9 +1,12 @@
-$bordeaux:#dc143c ;
+$bordeaux:#dc143c;
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     
+}
+html{
+    scroll-behavior: smooth;
 }
 
 header{
@@ -83,7 +86,7 @@ header{
     }
     p{
         text-align: justify;
-        font-size: 1.3em;
+        font-size: 1.em;
         font-weight: 600;
     }
 }
@@ -107,7 +110,10 @@ header{
     }
 }
 #quipo{
-    min-height: 100vh;
+        min-height: 100vh;
+        .bg-bordeaux{
+            background-color: $bordeaux;
+        }
 }
 @media only screen and (min-width: 900px){
     header{
@@ -172,7 +178,7 @@ header{
            padding-top: 50px;
         }
         p{
-            margin: 30px;
+            margin: spx;
         }
         .slide{
                 margin:auto;
@@ -186,7 +192,9 @@ header{
         p{
             margin: 30px;
         }
+        
     } 
 }
+
     
     

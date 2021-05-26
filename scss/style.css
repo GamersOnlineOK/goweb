@@ -84,7 +84,7 @@ header .btn {
 
 #quehacemos p {
   text-align: justify;
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: 600;
 }
 
@@ -173,7 +173,7 @@ header .btn {
     padding-top: 50px;
   }
   #clientes p {
-    margin: 30px;
+    margin: spx;
   }
   #clientes .slide {
     margin: auto;

@@ -1,0 +1,41 @@
+[{
+    "id":"1",
+    "idservice":"1",
+    "img":"img/servidor.png",
+    "titulo":"Start",
+    "cuentasmail":"5 cuentas de correos.",
+    "precio":"100",
+    "bbdd":"5 bases de datos",
+    "dominio":"1 dominio",
+    "ssl":"No incluido"
+},{
+    "id":"2",
+    "idservice":"1",
+    "img":"img/ecommerce.png",
+    "titulo":"Medium",
+    "cuentasmail":"20 cuentas de correos.",
+    "precio":"190",
+    "bbdd":"20 bases de datos",
+    "dominio":"1 dominio",
+    "ssl":"No incluido"
+},
+{
+    "id":"3",
+    "idservice":"1",
+    "img":"img/diseno.png",
+    "titulo":"Full",
+    "cuentasmail":"Cuentas de correos Ilimitado.",
+    "precio":"230",
+    "bbdd":"Base de datos <span class='text-success fw-bold'>Ilimitada</span>",
+    "dominio":"1 dominio",
+    "ssl":"<span class='text-success fw-bold me-1'>SSL Gratis</span> por 1 año"
+},{
+    "id":"4",
+    "idservice":"2",
+    "img":"img/marketing-de-medios-sociales.png",
+    "titulo":"Marketing SEO+PPC",
+    "descripcion":"",
+    "bbdd":"",
+    "dominio":"",
+    "ssl":""
+}]

@@ -1,0 +1,51 @@
+<!-- *************ANALITITYCS*************** -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5JWZE6RE0"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-C5JWZE6RE0');
+</script>
+
+<!-- *******************ADWORDS****************-->
+
+<!-- Copia la etiqueta que se muestra a continuación y pégala entre las etiquetas <head></head> de todas las páginas de tu sitio web.
+Solo debes instalar la etiqueta global de sitio una vez por cuenta, aunque realices un seguimiento de varias acciones. -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 879671116 -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-879671116"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'AW-879671116');
+</script>
+
+
+ <!-- Este evento debe ser llamado al enviar el formulario
+
+Copia el siguiente fragmento y pégalo entre las etiquetas <head></head> de las páginas de las que quieras hacer un seguimiento, justo después de la etiqueta global de sitio. A continuación, ejecuta la función gtag_report_conversion cuando un usuario haga clic en el enlace o el botón elegidos.
+
+Event snippet for contact-form conversion page
+In your html page, add the snippet and call gtag_report_conversion when someone clicks on the chosen link or button.  -->
+
+<script>
+    function gtag_report_conversion(url) {
+        var callback = function () {
+            if (typeof (url) != 'undefined') {
+                window.location = url;
+            }
+        };
+        gtag('event', 'conversion', {
+            'send_to': 'AW-879671116/FVLOCNT8148CEMzuuqMD',
+            'event_callback': callback
+        });
+        return false;
+    }
+</script>
+
+<!-- *******************FACEBOOK****************-->
