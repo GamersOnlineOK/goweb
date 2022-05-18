@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald&display=swap");
+body {
+  background-image: url(../img/plantas/pexels-scott-webb-305821.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header {
+  height: 100vh;
+}
+
+header .img-fluid {
+  padding-top: 2px;
+  max-width: 150px;
+}
+
+header h1 {
+  font-family: 'Oswald', sans-serif;
+}
+
+header .container {
+  height: 100vh;
+}
+
+header .indicates-required {
+  color: #d82828;
+  font-size: .8em;
+}
+
+header .asterisk {
+  color: red;
+}
+
+header .mc-field-group {
+  width: 100% !important;
+}
+/*# sourceMappingURL=Cm.css.map */

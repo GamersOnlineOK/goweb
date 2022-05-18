@@ -1,0 +1,11 @@
+[{
+    "id":"1",
+    "img":"img/Sergio Cacosso.jpeg",
+    "titulo":"Sergio Cacosso",
+    "descripcion":"CEO -Software Developer"
+},{
+    "id":"2",
+    "img":"img/leonardo De Los Santos.jpeg",
+    "titulo":"Leonardo de los Santos",
+    "descripcion":"CFO - Software Engineer"
+}]

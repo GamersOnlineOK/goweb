@@ -1,22 +1,17 @@
 [{
     "id":"1",
-    "img":"img/servidor.png",
-    "titulo":"Hosting",
-    "descripcion":"Trabajamos con los mejores servidores de Hosting a nivel Mundial, para que tu sitio este disponible las 24hs todos los dias de año de manera segura y sin interrupciones. Alojamos tu sitio web, lo administramos y realizamos el mantenemto que corresponde."
-},{
-    "id":"2",
     "img":"img/ecommerce.png",
-    "titulo":"Ecommerce",
+    "titulo":"Sitio Ecommerce",
     "descripcion":"El desarrollo de un eCommerce a medida proporciona una mayor libertad en cuanto al diseño y a las funcionalidades del mismo, además de lograr una gran diferenciación respecto a la competencia. Dependiendo del producto o servicio a vender, te ofreceremos el desarrollo a medida que mejor se adapte a las necesidades del proyecto y a tu presupuesto."
 },
 {
-    "id":"3",
+    "id":"2",
     "img":"img/diseno.png",
     "titulo":"Diseño & Desarrollo Web",
     "descripcion":"Diseñamos páginas web a su medida, adaptándonos a las necesidades de su negocio o empresa. Diseño web “responsive” que se ven en cualquier dispositivo, desarrollado en base a las normas para un buen SEO optimizando su posicionamiento en buscadores, al implementar una estrategia de palabras clave basadas en los objetivos de su negocio o empresa."
 },{
-    "id":"4",
+    "id":"3",
     "img":"img/ecommerce.png",
-    "titulo":"Ecommerce",
+    "titulo":"Community Manager",
     "descripcion":"El desarrollo de un eCommerce a medida proporciona una mayor libertad en cuanto al diseño y a las funcionalidades del mismo, además de lograr una gran diferenciación respecto a la competencia. Dependiendo del producto o servicio a vender, te ofreceremos el desarrollo a medida que mejor se adapte a las necesidades del proyecto y a tu presupuesto."
 }]
